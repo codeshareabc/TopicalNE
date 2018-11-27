@@ -1,2 +1,2 @@
 # TopicalNE
-Topical NEtwork Embedding
+Topical Network Embedding
